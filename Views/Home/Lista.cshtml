@@ -1,0 +1,35 @@
+@model List<PreAgendamento>;
+@{
+    ViewData["Title"]= "Lista";
+}
+
+<h3>Lista dos serviços agendados:</h3>
+<br>
+<table cellpadding="9" cellspacing="9">
+<thead>
+<tr>
+<th>Nome</th>
+<th>Telefone</th>
+<th>Data</th>
+<th>Animal</th>
+<th>Necessidade</th>
+</tr>
+</thead>
+
+<tbody>
+@foreach (PreAgendamento a in Model)
+{
+    <tr>
+        <td>@a.Nome</td>
+        <td>@a.Telefone</td>
+        <td>@a.Data</td>
+        <td>@a.Animal</td>
+        <td>@a.Necessidade</td>
+    </tr>
+}
+</table>
+<p><strong>Agradecemos a preferência!😻😺</strong></p>
+</tbody>
+<br>
+<p><a asp-action="Agendamento">Agendar mais serviços</a>
+    

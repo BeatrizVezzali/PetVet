@@ -1,0 +1,44 @@
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.exe
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.deps.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.runtimeconfig.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.runtimeconfig.dev.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.dll
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.pdb
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.Views.dll
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.0\PetVet MVC.Views.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.csproj.AssemblyReference.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.AssemblyInfoInputs.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.AssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.csproj.CoreCompileInputs.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.RazorAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.RazorAssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\PetVet MVC.StaticWebAssets.Manifest.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\PetVet MVC.StaticWebAssets.Pack.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.PetVet MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.PetVet MVC.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.PetVet MVC.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.PetVet MVC.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.TagHelpers.input.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.TagHelpers.output.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.RazorCoreGenerate.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.RazorTargetAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.RazorTargetAssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.Views.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.dll
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.genruntimeconfig.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.0\PetVet MVC.csproj.CopyComplete

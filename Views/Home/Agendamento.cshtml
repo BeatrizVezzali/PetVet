@@ -1,0 +1,61 @@
+@model PreAgendamento;
+@{
+    ViewData ["Title"]= "Agendamento";
+}
+
+<div class="row mt-3">
+<div class="col-6 border border-dark">
+<h3>Pré - agendamento</h3>
+<br>
+<form method="post">
+<div class="row">
+<div class="col-2">
+<label asp-for="Nome">Nome:</label>
+</div>
+<div class="col-10">
+<input asp-for="Nome" required>
+</div>
+</div>
+
+<div class="row">
+<div class="col-2">
+<label asp-for="Telefone">Telefone:</label>
+</div>
+<div class="col-10">
+<input asp-for="Telefone" type="tel" required>
+</div>
+</div>
+
+<div class="row">
+<div class="col-2">
+<label asp-for="Data">Data:</label>
+</div>
+<div class="col-10">
+<input asp-for="Data" type="date" required>
+</div>
+</div>
+
+<div class="row">
+<div class="col-2">
+<label asp-for="Animal">Animal:</label>
+</div>
+<div class="col-10">
+<input asp-for="Animal" required>
+</div>
+</div>
+
+<div class="row">
+<div class="col-2">
+<label asp-for="Necessidade">Necessidade:</label>
+</div>
+<div class="col-10">
+<input asp-for="Necessidade" required>
+</div>
+</div>
+
+<p>
+<input type="submit" value="Enviar">
+</p>
+
+</form>
+</div>

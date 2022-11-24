@@ -1,0 +1,85 @@
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.exe
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.deps.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.runtimeconfig.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.runtimeconfig.dev.json
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.dll
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.pdb
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.Views.dll
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.Views.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.AssemblyInfoInputs.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.AssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csproj.CoreCompileInputs.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorAssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.TagHelpers.input.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.TagHelpers.output.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorCoreGenerate.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorTargetAssemblyInfo.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorTargetAssemblyInfo.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.Views.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\PetVet MVC.StaticWebAssets.Manifest.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.dll
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.pdb
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.genruntimeconfig.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csproj.CopyComplete
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.exe
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.deps.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.runtimeconfig.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.runtimeconfig.dev.json
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.dll
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.pdb
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.Views.dll
+C:\Users\beatr\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.Views.pdb
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csprojAssemblyReference.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.AssemblyInfoInputs.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.AssemblyInfo.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorAssemblyInfo.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorAssemblyInfo.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.TagHelpers.input.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.TagHelpers.output.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorCoreGenerate.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Lista.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Serviços.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorTargetAssemblyInfo.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.RazorTargetAssemblyInfo.cs
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.Views.pdb
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\PetVet MVC.StaticWebAssets.Manifest.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\PetVet MVC.StaticWebAssets.xml
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.dll
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.pdb
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.genruntimeconfig.cache
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csproj.CopyComplete
+C:\Users\beatr\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sucesso.cshtml.g.cs
+C:\Users\silma\Desktop\PetVet MVC\bin\Debug\netcoreapp3.1\PetVet MVC.StaticWebAssets.xml
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.csproj.AssemblyReference.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\PetVet MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\PetVet MVC.StaticWebAssets.Pack.cache
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.PetVet MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.PetVet MVC.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.PetVet MVC.props
+C:\Users\silma\Desktop\PetVet MVC\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.PetVet MVC.props
