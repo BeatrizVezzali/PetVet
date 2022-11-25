@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
 
 namespace PetVet_MVC
 {
@@ -26,7 +27,7 @@ namespace PetVet_MVC
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory LogFac)
         {
             if (env.IsDevelopment())
             {
@@ -48,6 +49,8 @@ namespace PetVet_MVC
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            LogFac.AddFile("Logs/log-{Date}.txt", LogLevel.Trace);
         }
     }
 }

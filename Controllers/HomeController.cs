@@ -39,9 +39,19 @@ namespace PetVet_MVC.Controllers
 
         public IActionResult Agendamento(PreAgendamento agendamento)
         {
-            Dados.AgendaAtual.Inserir(agendamento);
+            try
+            {
+                Dados.AgendaAtual.Inserir(agendamento);
+                return Json(new {status = "Ok", mensagem = "Sucesso!"});
+            }
+            catch (Exception e)
+            {
+                _logger.LogError("Erro no cadastro" + e.Message);
 
-            return View("Sucesso");
+				return Json(new {status = "ERR", mensagem = "Tente novamente!"}); 
+            }
+
+           
         }
 
 

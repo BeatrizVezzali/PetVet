@@ -5,7 +5,7 @@
 
 <h3>Lista dos serviços agendados:</h3>
 <br>
-<table cellpadding="9" cellspacing="9">
+<table cellpadding="9" cellspacing="9" class="table table-striped">
 <thead>
 <tr>
 <th>Nome</th>
@@ -22,7 +22,7 @@
     <tr>
         <td>@a.Nome</td>
         <td>@a.Telefone</td>
-        <td>@a.Data</td>
+        <td>@a.Data.ToString("dd/MM/yyyy")</td>
         <td>@a.Animal</td>
         <td>@a.Necessidade</td>
     </tr>

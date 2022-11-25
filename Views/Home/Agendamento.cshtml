@@ -7,13 +7,13 @@
 <div class="col-6 border border-dark">
 <h3>Pré - agendamento</h3>
 <br>
-<form method="post">
+<form method="post" id="frmAgendamento">
 <div class="row">
 <div class="col-2">
 <label asp-for="Nome">Nome:</label>
 </div>
 <div class="col-10">
-<input asp-for="Nome" required>
+<input asp-for="Nome" type="text" id="nome">
 </div>
 </div>
 
@@ -22,7 +22,7 @@
 <label asp-for="Telefone">Telefone:</label>
 </div>
 <div class="col-10">
-<input asp-for="Telefone" type="tel" required>
+<input asp-for="Telefone" type="tel" id="telefone">
 </div>
 </div>
 
@@ -31,7 +31,7 @@
 <label asp-for="Data">Data:</label>
 </div>
 <div class="col-10">
-<input asp-for="Data" type="date" required>
+<input asp-for="Data" type="date" id="data">
 </div>
 </div>
 
@@ -40,7 +40,7 @@
 <label asp-for="Animal">Animal:</label>
 </div>
 <div class="col-10">
-<input asp-for="Animal" required>
+<input asp-for="Animal" type="text" id="animal">
 </div>
 </div>
 
@@ -49,12 +49,12 @@
 <label asp-for="Necessidade">Necessidade:</label>
 </div>
 <div class="col-10">
-<input asp-for="Necessidade" required>
+<input asp-for="Necessidade" id="necessidade">
 </div>
 </div>
 
 <p>
-<input type="submit" value="Enviar">
+<input type="submit" id="botao" value="Enviar">
 </p>
 
 </form>
